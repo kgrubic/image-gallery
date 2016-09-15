@@ -1,0 +1,21 @@
+.image_div{
+	height: 270px;
+	width:	370px;
+	display: inline-table;
+}
+img.over {
+  border: 3px solid #000;
+}
+img{
+	cursor: move;
+	border: 1px solid #000;
+}
+#galery{
+	margin-left: auto;
+    margin-right: auto; 
+	width: 1110px;
+}
+h3{
+	text-align: center;
+	color: red;
+}
